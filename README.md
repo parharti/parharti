@@ -94,12 +94,13 @@ building:  "AI systems that real users depend on, from prototype to production"
 
 ---
 
-### 🐍 `$ ./eat-my-contributions`
+### 👾 `$ ./pacman --eat-my-commits`
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parharti/parharti/output/github-snake-dark.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/parharti/parharti/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parharti/parharti/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parharti/parharti/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/parharti/parharti/output/pacman-contribution-graph.svg"/>
   </picture>
 </p>
 
